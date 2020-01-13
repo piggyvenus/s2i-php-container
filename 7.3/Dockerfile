@@ -1,4 +1,4 @@
-FROM rhscl/s2i-base-rhel7:1
+FROM registry.redhat.io/ubi7/ubi
 
 # This image provides an Apache+PHP environment for running PHP
 # applications.
